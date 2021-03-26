@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+/* Paleta de cores */
+:root{
+    
+     background: -secondary #6c757d;
+     color: #343a40;
+     color: -yellow #ffc107;
+     color: #007bff;
+     color: black;
+     color: #FFF;
+}
+
+h1,h2{
+    font-size: 2rem;
+}
+
+
+
+ 
